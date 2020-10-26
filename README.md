@@ -21,12 +21,23 @@ host: localhost
 
 Requirements
 1. python3
-  | sudo apt-get install python3
+
+
+| sudo apt-get install python3
+
 2. Install tkinter
-  | sudo apt-get install python3-tk
+
+
+| sudo apt-get install python3-tk
+
 3. Install Mysql
+  
+  
   | sudo apt-get install mysql-server
+
 and configure it
+  
+  
   | sudo mysql_secure_installation
 
 
